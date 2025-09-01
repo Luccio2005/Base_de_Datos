@@ -1,0 +1,5 @@
+CREATE DATABASE Banco;
+GO
+
+USE Banco;
+GO

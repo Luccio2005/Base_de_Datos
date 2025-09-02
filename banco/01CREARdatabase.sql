@@ -1,0 +1,5 @@
+CREATE DATABASE BancoDB1;
+GO
+
+USE BancoDB1;
+GO

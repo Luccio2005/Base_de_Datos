@@ -1,0 +1,7 @@
+USE Bank
+GO
+
+SELECT ID, COUNT(*) AS Numero
+FROM Client
+GROUP BY ID
+HAVING COUNT (*) > 3;

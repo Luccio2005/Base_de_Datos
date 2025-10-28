@@ -1,5 +1,0 @@
-USE Bank; 
-GO
-
-SELECT * FROM BankTransaction
-WHERE Amount BETWEEN 1 AND 1000;
